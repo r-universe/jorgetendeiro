@@ -8,3 +8,8 @@
 	url = https://github.com/jorgetendeiro/ggum
 	shallow = true
 	registered = true
+[submodule "PerFit"]
+	path = PerFit
+	url = https://github.com/jorgetendeiro/perfit
+	shallow = true
+	registered = true
